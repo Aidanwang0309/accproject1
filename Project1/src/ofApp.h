@@ -15,7 +15,7 @@ public:
     void keyReleased(int key);
     void mouseMoved(int x, int y );
     void mouseDragged(int x, int y, int button);
-    void mousePressed(int x, int y, int button);
+//    void mousePressed(int x, int y, int button);
 //    void mouseReleased(int x, int y, int button);
 //    void windowResized(int w, int h);
 //   void dragEvent(ofDragInfo dragInfo);
@@ -32,34 +32,4 @@ public:
     
     ofFbo fbo;
     ofFbo maskFbo;
-
-	//alex's 
-	ofImage resizeEven(ofImage input);
-	float newX;
-	float newY;
-
-	ofImage tileIt(ofImage imgT);
-	//the repetitions for tiling
-	float rep;
-
-	ofImage contrast(ofImage conIn);
-
-	int constrain(int clamp);
-
-	//brightness function - used by tile
-	ofImage brightness(ofImage img, float red, float green, float blue);
-	float brightOp;
-
-	//the input image - no changes are made to this image to avoid feedback
-	ofImage original;
-
-	//used to display the original
-	ofImage toriginal;
-
-	//the output version
-	ofImage copy;
-
-	// X and Y dimensions of the original input image
-	int origX;
-	int origY;
 };
