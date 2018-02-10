@@ -1,14 +1,23 @@
-﻿  ofApp.cpp
+﻿  main.cpp
+  ofApp.cpp
   Unknown compiler version - please run the configure tests and report the results
-C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofImage.h(636): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  src\ofApp.cpp(161): note: see reference to function template instantiation 'void ofImage_<unsigned char>::clone<unsigned char>(const ofImage_<unsigned char> &)' being compiled
-  src\ofApp.cpp(161): note: see reference to function template instantiation 'void ofImage_<unsigned char>::clone<unsigned char>(const ofImage_<unsigned char> &)' being compiled
-  Project1.vcxproj -> C:\Users\Alex Nathanson\Documents\openFrameworks\of_v0.9.8_vs_release\apps\accproject1\Project1\bin\Project1_debug.exe
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofImage.h(636): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+  src\ofApp.cpp(262): note: see reference to function template instantiation 'void ofImage_<unsigned char>::clone<unsigned char>(const ofImage_<unsigned char> &)' being compiled
+  src\ofApp.cpp(262): note: see reference to function template instantiation 'void ofImage_<unsigned char>::clone<unsigned char>(const ofImage_<unsigned char> &)' being compiled
+     Creating library bin\Project1_debug.lib and object bin\Project1_debug.exp
+  Project1.vcxproj -> C:\Users\Alex Nathanson\Documents\openFrameworks\of_v0.9.8_vs_release\apps\myApps\Final ACC_project1\accproject1\Project1\bin\Project1_debug.exe
   
   	                   9	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\
