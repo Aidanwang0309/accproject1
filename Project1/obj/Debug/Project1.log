@@ -2,10 +2,10 @@
   ofApp.cpp
   Unknown compiler version - please run the configure tests and report the results
   Unknown compiler version - please run the configure tests and report the results
-C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
-C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
 C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
 C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
 C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
 C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
 C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
@@ -17,7 +17,17 @@ C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openF
 C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofImage.h(636): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
   src\ofApp.cpp(262): note: see reference to function template instantiation 'void ofImage_<unsigned char>::clone<unsigned char>(const ofImage_<unsigned char> &)' being compiled
   src\ofApp.cpp(262): note: see reference to function template instantiation 'void ofImage_<unsigned char>::clone<unsigned char>(const ofImage_<unsigned char> &)' being compiled
+  LINK : bin\Project1_debug.exe not found or not built by the last incremental link; performing full link
      Creating library bin\Project1_debug.lib and object bin\Project1_debug.exp
-  Project1.vcxproj -> C:\Users\Alex Nathanson\Documents\openFrameworks\of_v0.9.8_vs_release\apps\myApps\Final ACC_project1\accproject1\Project1\bin\Project1_debug.exe
+  Project1.vcxproj -> C:\Users\Alex Nathanson\Documents\openFrameworks\of_v0.9.8_vs_release\apps\myApps\clone test\accproject1\Project1\bin\Project1_debug.exe
   
   	                   9	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\
+  	    Older     		 4171776	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\assimp.dll
+  	    Older     		 1503232	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\fmodex64.dll
+  	    Older     		 1552384	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\fmodexL64.dll
+  	    Older     		 6402560	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\FreeImage.dll
+  	    Older     		  734720	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\freetype.dll
+  	    Older     		  289792	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\glut32.dll
+  	    Older     		 2208256	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\libeay32.dll
+  	    Older     		  458240	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\ssleay32.dll
+  	    Older     		   81408	C:\Users\Alex Nathanson\Documents\OpenframeWorks\of_v0.9.8_vs_release\export\vs\x64\Zlib.dll
